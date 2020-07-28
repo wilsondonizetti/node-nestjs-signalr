@@ -1,0 +1,4 @@
+{
+     "rejectUnauthorized": false,
+     "registryURL": "https://localhost:5001/services/hub"
+}
